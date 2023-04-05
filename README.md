@@ -2,7 +2,7 @@
 
 <img src = "./static/demo.gif" width="600px" height = "300px">
 
-<b><a href="https://elysian01.github.io/Exercise-And-Yoga-Tracker/">Click here</a> to visit website.</b>
+
 
 ### With the need to be fit and healthy on the rise today, Yoga-Tracker proves to be a valuable solution. 
 
@@ -36,8 +36,3 @@ It can classify 6 different yoga poses which are divided into 2 sets:
     3. Godess Pose
 <br><br>
 <img src = "./static/imgs/yoga_set2.jpeg" width="500px" height = "200px">
-
-### Dataset Link: https://www.kaggle.com/elysian01/yoga-pose-classification
-### Pretrained Model and APK: [Download Link](https://drive.google.com/drive/folders/1I8TAGMQuEHPV8OrmxCArk9-DYF5-aYSv?usp=sharing)
-### Yoga Tracker Android App: [link](https://github.com/Elysian01/Exercise-And-Yoga-Tracker-Android-App)
-# UFIT
