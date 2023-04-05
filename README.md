@@ -40,3 +40,4 @@ It can classify 6 different yoga poses which are divided into 2 sets:
 ### Dataset Link: https://www.kaggle.com/elysian01/yoga-pose-classification
 ### Pretrained Model and APK: [Download Link](https://drive.google.com/drive/folders/1I8TAGMQuEHPV8OrmxCArk9-DYF5-aYSv?usp=sharing)
 ### Yoga Tracker Android App: [link](https://github.com/Elysian01/Exercise-And-Yoga-Tracker-Android-App)
+# UFIT
