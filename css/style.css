@@ -455,7 +455,7 @@ text-align: center;}
 }
 
 footer {
-    background: linear-gradient(0deg, rgba(8, 32, 50, 0.9), rgba(8, 32, 50, 0.9)), url(../img/bg_banner1.jpg), #082032;;
+    background: linear-gradient(0deg, rgba(8, 32, 50, 0.9), rgba(8, 32, 50, 0.9)), url("/img/UFIT5.png"), #082032;;;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -468,7 +468,7 @@ footer .footer-top {
 
 .footer-bottom {
     border-top: 1px solid rgba(255, 255, 255, 0.1);
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     padding-top: 20px;
 }
 
@@ -486,8 +486,11 @@ footer .social-icons a {
     font-size: 20px;
     margin-left: 4px;
     margin-right: 4px;
+    margin-bottom: -39px;
 }
-
+.contact-pg {
+    background-image: url("/img/image.png");
+}
 .loader {
     min-height: 100vh;
     display: flex;
