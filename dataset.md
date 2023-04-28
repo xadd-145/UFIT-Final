@@ -7,14 +7,14 @@ Yoga Set 1 Contains images for
 - Warrior1 Pose 
 - Downward Dog Pose 
 
-<img src="https://i.ibb.co/72hGhF1/yoga-set1.jpg" alt="yoga-set1">
+
 
 Yoga Set 2 Contains images for
 - Mountain Pose 
 - Warrior2 Pose 
 - Goddess Pose 
 
-<img src="https://i.ibb.co/KFW7qKZ/yoga-set2.jpg" alt="yoga-set2">
+
 
 **The Dataset is already into train and test data for each pose**
 
