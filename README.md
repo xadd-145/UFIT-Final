@@ -23,12 +23,9 @@ It can classify 6 different yoga poses which are divided into 2 sets:
     2. Warrior1 Pose
     3. Downward Dog Pose
 <br><br>
-<img src = "./static/imgs/yoga_set1.jpeg" width="500px" height = "200px">
-
 
 * Yoga Set 2
     1. Mountain Pose
     2. Warrior2 Pose
     3. Godess Pose
 <br><br>
-<img src = "./static/imgs/yoga_set2.jpeg" width="500px" height = "200px">
